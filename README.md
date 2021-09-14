@@ -10,4 +10,4 @@ If running locally: npm start
 ## Contributing
 Developed by Abigail Roberg using starter code provided by the Coding Boot Camp at the University of Texas at Austin
 ##
-Developer GitHub: github.com/abigailroberg
+Developer GitHub: www.github.com/abigailroberg
