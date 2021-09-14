@@ -7,6 +7,8 @@ Take, save, and access notes in an Express.js app. Each note has a title and bod
 ## Usage
   * On the deployed app, click Get Started. Enter a title and text for your note, and then the save button in the upper right hand corner of the screen. Existing notes can be accessed from the list on the left side of the screen.
   * If running locally: npm start
+## Screenshot
+![image](https://user-images.githubusercontent.com/84743748/133184130-ce0723d2-211f-4aa9-8c92-953f60eed68a.png)
 ## Contributing
 Developed by Abigail Roberg using starter code provided by the Coding Boot Camp at the University of Texas at Austin
 ##
